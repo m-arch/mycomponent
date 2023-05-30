@@ -1,4 +1,4 @@
-(ns rams.domain.auth.impl.core)
+(ns rams.dom.auth.impl.core)
 
 (defn main []
   (println "Hello world"))
